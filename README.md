@@ -286,6 +286,6 @@ LaZange Tool:
 
 ![image.png](SOAR-EDR/image%2055.png)
 
-## Challenges Facked:
+## Challenges Faced:
 
 - Integrating Tines(Credentials) with Slack
